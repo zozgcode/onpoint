@@ -165,7 +165,7 @@ export const mockAccounts: Account[] = [
         dateTime: 'September 13, 2024',
         description: 'SET Nopibs -Philadelphia',
         status: 'Success',
-        amount_usd: 80.21
+        amount_usd: -80.21
       },
       {
         dateTime: 'August 20, 2024',
@@ -207,7 +207,7 @@ export const mockAccounts: Account[] = [
         dateTime: 'July 5, 2023',
         description: 'Debit from Greenbean coffee pa.',
         status: 'Success',
-        amount_usd: 12.1
+        amount_usd: -12.1
       },
       {
         dateTime: 'June 10, 2023',
